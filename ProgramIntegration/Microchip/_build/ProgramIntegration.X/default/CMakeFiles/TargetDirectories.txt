@@ -1,0 +1,4 @@
+/home/vbox/MPLABXProjects/ProgramIntegration.X/_build/ProgramIntegration.X/default/CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir
+/home/vbox/MPLABXProjects/ProgramIntegration.X/_build/ProgramIntegration.X/default/CMakeFiles/ProgramIntegration_X_default_image_7Ym3xONt.dir
+/home/vbox/MPLABXProjects/ProgramIntegration.X/_build/ProgramIntegration.X/default/CMakeFiles/edit_cache.dir
+/home/vbox/MPLABXProjects/ProgramIntegration.X/_build/ProgramIntegration.X/default/CMakeFiles/rebuild_cache.dir

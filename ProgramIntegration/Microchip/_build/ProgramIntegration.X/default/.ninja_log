@@ -1,0 +1,25 @@
+# ninja log v7
+0	340	1781786452012301099	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+342	2584	1781786452352745103	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de
+1	195	1781786657136943660	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+196	2823	1781786657335875523	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de
+0	263	1781786671185031689	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+263	2707	1781786671452936194	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de
+16	280	1781793727930204383	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+280	2488	1781793728193323926	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de
+6	376	1781794092889721277	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+376	3668	1781794093261546865	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de
+0	193	1781794356710451601	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+193	2200	1781794356912550524	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de
+1	331	1781794439657668159	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+335	2866	1781794439993681766	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de
+2	144	1781794591055949415	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+144	3093	1781794591192951911	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de
+0	313	1781794902773142431	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+313	4288	1781794903071992611	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de
+0	195	1781795281438277944	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+195	3515	1781795281626370565	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de
+1	241	1781795497931225467	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+241	3271	1781795498184221223	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de
+1	223	1781795840747907458	CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1	b32eb8b8c4c1292a
+223	3237	1781795840975017886	/home/vbox/MPLABXProjects/ProgramIntegration.X/out/ProgramIntegration.X/default.elf	393dac7a30e664de

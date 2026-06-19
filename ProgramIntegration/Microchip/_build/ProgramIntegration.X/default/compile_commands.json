@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/vbox/MPLABXProjects/ProgramIntegration.X/_build/ProgramIntegration.X/default",
+  "command": "/opt/microchip/xc8/v3.10/bin/xc8-cc -DXPRJ_default=default -D__16F877A__ -D__DEBUG=1 -c -mcpu=16F877A -mdfp=/home/vbox/.mchp_packs/Microchip/PIC16Fxxx_DFP/1.8.167/xc8 -fno-short-double -fno-short-float -O0 -maddrqual=ignore -mwarn=-3 -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -o CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1 -c /home/vbox/MPLABXProjects/ProgramIntegration.X/main.c",
+  "file": "/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c",
+  "output": "/home/vbox/MPLABXProjects/ProgramIntegration.X/_build/ProgramIntegration.X/default/CMakeFiles/ProgramIntegration_X_default_default_XC8_compile.dir/home/vbox/MPLABXProjects/ProgramIntegration.X/main.c.p1"
+}
+]
